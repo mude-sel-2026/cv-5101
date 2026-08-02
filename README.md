@@ -10,7 +10,7 @@ This is the landing repo for the MUDE course at the Department of Civil Engineer
 
 | Assignment   | Topic                           | Repo              | Accept (classroom link)              |
 |--------------|---------------------------------|-------------------|-------------------
-| Assignment-0 | Setting the system up           | [Assignment-0](https://github.com/mude-sel-2026/assignment-0) |   [Accept Assignment-0](https://classroom.github.com/code-here)
+| Assignment-0 | Setting the system up           | [Assignment-0](https://github.com/mude-sel-2026/assignment-0) |   [Accept Assignment-0](https://classroom.github.com/a/Q9ua6TYl)
 
 ## **References: Teachbook**
    * MUDE Teach book from TU Delft https://mude.citg.tudelft.nl/book/2024/intro.html
