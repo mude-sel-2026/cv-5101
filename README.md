@@ -15,6 +15,8 @@ This is the landing repo for the MUDE course at the Department of Civil Engineer
 | Assignment-2 | Numerical Modeling              | [Assignment-2](https://github.com/mude-sel-2026/assignment-2) |   [Accept Assignment-2](https://classroom.github.com/a/2I2GzDOM) |
 | Assignment-3 | Linear Algebra – Eigenvalue Problem              | [Assignment-3](https://github.com/mude-sel-2026/assignment-3) |   [Accept Assignment-3](https://classroom.github.com/a/s9W8Ml3X) |
 | Assignment-4 | Optimization              | [Assignment-4](https://github.com/mude-sel-2026/assignment-4) |   [Accept Assignment-4 (trial)](https://classroom50.org/mude-sel-2026/cv5101/assignments/assmt-4/accept) |
+| Assignment-5 | Uncertainty & Estimation        | [Assignment-5](https://github.com/mude-sel-2026/Assignment-5)| [Accept Assignment-5](https://classroom50.org/mude-sel-2026/cv5101/assignments/assmt-5/accept)
+
 
 ## **References: Teachbook**
    * MUDE Teach book from TU Delft https://mude.citg.tudelft.nl/book/2024/intro.html
